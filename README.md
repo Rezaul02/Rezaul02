@@ -1,16 +1,30 @@
-### Hi there 👋
+![I am Web devloper](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
+### Hi there 👋, my name is Rezaul
+#### I am Web developer
 
 
-**Rezaul02/Rezaul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am font end web developer who is passionate about making error free website with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python 
 
-Here are some ideas to get you started:
+Skills: PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Youtube 
+- 👯 I’m looking to collaborate on Git hub  
+- 🤔 I’m looking for help with JAVA SCRIPT 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezail02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hibibreza83/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Way of light )  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezail02)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezail02&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rezail02)  
+
+![GitHub metrics](https://metrics.lecoq.io/Rezail02)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rezail02)  
+
+![Profile views](https://gpvc.arturio.dev/Rezail02)  
 

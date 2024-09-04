@@ -1,9 +1,10 @@
 ![I am  A Data Analytic and Python Developer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
-#### I am Web developer
+#### I am  Data Analytic 
 
 
-I am font end web developer who is passionate about making error free website with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python 
+I am Data Analytic  who is passionate about making error free website with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python /machine learning/ Power BI /SQL 
+
 
 Skills: PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL
 

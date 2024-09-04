@@ -3,7 +3,7 @@
 #### I am  Data Analytic 
 
 
-I am Data Analytic  who is passionate about making error free website with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python /machine learning/ Power BI /SQL 
+I am Data Analytic  who is passionate about making dashboard using power BI,  Data visualisation   with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python /machine learning/ Power BI /SQL 
 
 
 Skills: PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL

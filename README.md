@@ -1,15 +1,15 @@
-![I am Web devloper](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
+![I am  A Data Analytic and Python Developer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
 #### I am Web developer
 
 
 I am font end web developer who is passionate about making error free website with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python 
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+Skills: PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL
 
 - 🔭 I’m currently working on Youtube 
 - 👯 I’m looking to collaborate on Git hub  
-- 🤔 I’m looking for help with JAVA SCRIPT 
+- 🤔 I’m looking for help with Data science 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezail02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hibibreza83/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Way of light )  

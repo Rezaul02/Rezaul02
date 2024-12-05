@@ -1,12 +1,13 @@
 ![I am  A Data Analytic and Python Developer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
-#### I am  Data Analytic 
+#### I am  Data Science Student  
+
+I am a data scientist passionate about extracting insights through data analytics, creating dynamic dashboards with Power BI, and delivering 100% client satisfaction. My expertise spans machine learning, deep learning, software engineering, and software quality assurance (SQA). I work with Python, SQL, React, JavaScript, HTML, CSS, and Power BI to build innovative solutions. I excel in data visualization, analysis, and developing scalable and impactful systems.  
+
+Let me know if you'd like further refinements!
 
 
-I am Data Analytic  who is passionate about making dashboard using power BI,  Data visualisation   with 100% client satisfaction . I enjoy with working include REACT/ JS / HTML / CSS/ Python /machine learning/ Power BI /SQL 
-
-
-Skills: PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL
+Skills: Tensorflow / Keras / Deep learning / AI / scipy/ PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL
 
 - 🔭 I’m currently working on Youtube 
 - 👯 I’m looking to collaborate on Git hub  

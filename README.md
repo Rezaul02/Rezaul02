@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Rezaul
 #### I am  Data Science Student  
 
-I am a data scientist passionate about extracting insights through data analytics, creating dynamic dashboards with Power BI, and delivering 100% client satisfaction. My expertise spans machine learning, deep learning, software engineering, and software quality assurance (SQA). I work with Python, SQL, React, JavaScript, HTML, CSS, and Power BI to build innovative solutions. I excel in data visualization, analysis, and developing scalable and impactful systems.  
+I am a data scientist passionate about extracting insights through data analytics,, Generative Al , LLM ,  creating dynamic dashboards with Power BI, and delivering 100% client satisfaction. My expertise spans machine learning, deep learning, software engineering, and software quality assurance (SQA). I work with Python, SQL, React, JavaScript, HTML, CSS, and Power BI to build innovative solutions. I excel in data visualization, analysis, and developing scalable and impactful systems.  
 
 Let me know if you'd like further refinements!
 

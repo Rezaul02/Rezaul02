@@ -1,4 +1,4 @@
-![I am  A Data Analytic and Python Developer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
+![I am  An AI Engineer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
 #### I am an AI Engineer    
 
@@ -6,15 +6,13 @@ I am an AI Engineer passionate about transforming data into intelligence through
 
 💡 My expertise includes:
 
-Generative AI & LLMs – designing intelligent systems with cutting-edge models.
+- Generative AI & LLMs – designing intelligent systems with cutting-edge models.
 
-Data Science & Analytics – extracting actionable insights and predictive intelligence.
+- Data Science & Analytics – extracting actionable insights and predictive intelligence.
 
-Power BI & Data Visualization – crafting dynamic, interactive dashboards that drive decision-making.
+- Power BI & Data Visualization – crafting dynamic, interactive dashboards that drive decision-making.
 
-Full-Stack Engineering – skilled in Python, SQL, React, JavaScript, HTML, CSS for end-to-end solution development.
-
-Software Quality Assurance (SQA) – ensuring reliability, scalability, and 100% client satisfaction.
+- Full-Stack Engineering – skilled in Python, SQL, React, JavaScript, HTML, CSS for end-to-end solution development.
 
 ✨ I thrive on solving complex problems, creating innovative AI solutions, and delivering excellence that empowers businesses to stay ahead in the digital era.
 

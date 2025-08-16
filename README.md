@@ -1,8 +1,22 @@
 ![I am  A Data Analytic and Python Developer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
-#### I am  Data Science Student  
+#### I am an AI Engineer    
 
-I am a data scientist passionate about extracting insights through data analytics,, Generative Al , LLM ,  creating dynamic dashboards with Power BI, and delivering 100% client satisfaction. My expertise spans machine learning, deep learning, software engineering, and software quality assurance (SQA). I work with Python, SQL, React, JavaScript, HTML, CSS, and Power BI to build innovative solutions. I excel in data visualization, analysis, and developing scalable and impactful systems.  
+I am an AI Engineer passionate about transforming data into intelligence through Generative AI, LLMs, and advanced analytics. With a strong foundation in machine learning, deep learning, and software engineering, I specialize in building scalable, high-impact AI solutions that deliver measurable business value.
+
+💡 My expertise includes:
+
+Generative AI & LLMs – designing intelligent systems with cutting-edge models.
+
+Data Science & Analytics – extracting actionable insights and predictive intelligence.
+
+Power BI & Data Visualization – crafting dynamic, interactive dashboards that drive decision-making.
+
+Full-Stack Engineering – skilled in Python, SQL, React, JavaScript, HTML, CSS for end-to-end solution development.
+
+Software Quality Assurance (SQA) – ensuring reliability, scalability, and 100% client satisfaction.
+
+✨ I thrive on solving complex problems, creating innovative AI solutions, and delivering excellence that empowers businesses to stay ahead in the digital era.
 
 Let me know if you'd like further refinements!
 

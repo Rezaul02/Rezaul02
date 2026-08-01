@@ -33,9 +33,9 @@ TensorFlow Keras Deep Learning Machine Learning Python SciPy Generative AI LLMs
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rezaul02)  
 
-![GitHub metrics](https://metrics.lecoq.io/Rezail02)  
+![GitHub metrics](https://metrics.lecoq.io/Rezaul02)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rezail02)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rezaul02)  
 
-![Profile views](https://gpvc.arturio.dev/Rezail02)  
+![Profile views](https://gpvc.arturio.dev/Rezaul02)  
 

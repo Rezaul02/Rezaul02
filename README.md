@@ -31,7 +31,7 @@ TensorFlow Keras Deep Learning Machine Learning Python SciPy Generative AI LLMs
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezail02&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rezail02)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rezaul02)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rezail02)  
 

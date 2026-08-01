@@ -1,29 +1,26 @@
 ![I am  An AI Engineer](https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 ### Hi there 👋, my name is Rezaul
-#### I am an AI Engineer    
+## I'm an AI Engineer 👋
 
-I am an AI Engineer passionate about transforming data into intelligence through Generative AI, LLMs, and advanced analytics. With a strong foundation in machine learning, deep learning, and software engineering, I specialize in building scalable, high-impact AI solutions that deliver measurable business value.
+I am an AI Engineer passionate about transforming data into intelligence through Generative AI, LLMs, and deep learning. With a strong foundation in machine learning and applied AI system design, I specialize in building scalable, high-impact AI solutions that deliver measurable, real-world results.
 
-💡 My expertise includes:
+💡 My Expertise
+Generative AI & LLMs — designing intelligent systems with cutting-edge language models
+Deep Learning — building and training neural networks for real-world applications
+Machine Learning — developing predictive models and data-driven intelligence
+AI System Design — architecting end-to-end, production-ready AI pipelines
+✨ What Drives Me
 
-- Generative AI & LLMs – designing intelligent systems with cutting-edge models.
+I thrive on solving complex problems, experimenting with emerging AI techniques, and building innovative solutions that push the boundaries of what's possible with AI.
 
-- Data Science & Analytics – extracting actionable insights and predictive intelligence.
+🛠️ Skills
 
-- Power BI & Data Visualization – crafting dynamic, interactive dashboards that drive decision-making.
+TensorFlow Keras Deep Learning Machine Learning Python SciPy Generative AI LLMs
 
-- Full-Stack Engineering – skilled in Python, SQL, React, JavaScript, HTML, CSS for end-to-end solution development.
-
-✨ I thrive on solving complex problems, creating innovative AI solutions, and delivering excellence that empowers businesses to stay ahead in the digital era.
-
-Let me know if you'd like further refinements!
-
-
-Skills: Tensorflow / Keras / Deep learning / AI / scipy/ PYTHON / REACT / JS / HTML / CSS/Machine Learning/ Power BI /SQL
-
-- 🔭 I’m currently working on Youtube 
-- 👯 I’m looking to collaborate on Git hub  
-- 🤔 I’m looking for help with Data science 
+🔭 Currently
+🔭 Working on: Genuity System LTD.
+👯 Looking to collaborate on: GitHub
+🤔 Looking for help with: AGI
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezail02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hibibreza83/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Way of light )  
